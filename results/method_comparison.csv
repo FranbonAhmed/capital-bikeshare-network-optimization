@@ -1,0 +1,5 @@
+method,objective_or_linkage,center_type,interpretation
+K-Means,Squared Euclidean distance,Artificial centroid possible,Compact service territories
+K-Medians,Manhattan / L1 objective,Artificial center possible,More robust to extreme locations
+K-Medoids,Observed-point medoid,Actual station,Best source-notebook fit for candidate depots
+Hierarchical,Ward linkage,No default operational center,Alternative nested geographic grouping
